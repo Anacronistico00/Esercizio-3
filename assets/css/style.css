@@ -1,0 +1,90 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#title,
+#content {
+    width: 50vw;
+    margin: 0 auto;
+    text-align: center;
+}
+#logo {
+    width: 15%;
+    margin-top: 10px;
+}
+
+#header {
+    text-align: center;
+
+}
+
+#paragraph {
+    padding: 1.5vw;
+    color: #004D4C;
+    border-top: 1px solid #FFD877;
+    background-color: #FDFBF1;
+}
+
+#boldText {
+    font-weight: bold ;
+}
+
+#title {
+    margin-top: 5vw;
+    margin-bottom: 3vw;
+    font-size: 2.6em;
+    color: #333333;
+}
+
+.description {
+    text-align: left;
+    font-size: 1.3em;
+}
+
+video {
+    width: 50vw;
+}
+
+#creator {
+    color: #A9A9A9;
+    font-size: 1.2em;
+}
+#featured {
+    padding: 0;
+    padding-left: 1.5em;
+    text-align: left;
+    border-left:2px solid #FFD877 ;
+}
+
+#featured p {
+    margin: 0;
+    font-size: 1.3em;
+}
+
+.feature {
+    color: #B84C19;
+}
+
+.recipeLink:link,
+.recipeLink:visited{
+    color: #107777;
+}
+
+.lists,
+.method,
+footer {
+    width: 50vw;
+    margin: 0 auto;
+    font-size: 1.5em;
+}
+
+.lists li{
+    margin: 1.2em;
+}
+
+#ingredients,
+.method h2 {
+    padding: 1.5em;
+    border-bottom: 2px solid #C4F3F2;
+}

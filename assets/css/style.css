@@ -42,8 +42,9 @@ html {
     font-size: 1.3em;
 }
 
-video {
+video{
     width: 50vw;
+    height: 50%;
 }
 
 #creator {

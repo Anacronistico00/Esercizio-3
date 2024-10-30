@@ -20,7 +20,7 @@ html {
 }
 
 #paragraph {
-    padding: 1.5vw;
+    padding: 1rem;
     color: #004D4C;
     border-top: 1px solid #FFD877;
     background-color: #FDFBF1;
@@ -85,7 +85,7 @@ footer {
 }
 
 #ingredients,
-.method h2 {
+.method h3 {
     padding: 1.5em;
     border-bottom: 2px solid #C4F3F2;
 }
